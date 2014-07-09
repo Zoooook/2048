@@ -608,7 +608,7 @@ hr {
   width: 120px;
   line-height: 42px;
   cursor: pointer;
-  display: block;
+  margin: 0 auto;
   text-align: center;
 }
 
