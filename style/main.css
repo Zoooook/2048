@@ -597,18 +597,20 @@ hr {
   line-height: 42px;
   margin-bottom: 0; }
 
+.center-button {
+  margin: 0 auto;
+}
+
 .restart-button {
   display: inline-block;
   background: #8f7a66;
   border-radius: 3px;
-  padding: 0 20px;
   text-decoration: none;
   color: #f9f6f2;
   height: 40px;
-  width: 120px;
+  width: 140px;
   line-height: 42px;
   cursor: pointer;
-  margin: 0 auto;
   text-align: center;
 }
 
