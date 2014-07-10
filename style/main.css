@@ -481,13 +481,21 @@ hr {
     @media screen and (max-width: 520px) {
       .tile.tile-32768 .tile-inner {
         font-size: 10px; } }
+  .tile.tile-65536 .tile-inner {
+    color: #f4f480
+    background: #ffffff
+    box-shadow: 0 0 30px 10px rgba(244, 244, 128, 0.95238), inset 0 0 0 1px rgba(255, 255, 255, 0.57143);
+    font-size: 30px; }
+    @media screen and (max-width: 520px) {
+      .tile.tile-32768 .tile-inner {
+        font-size: 10px; } }
   .tile.tile-super .tile-inner {
     color: #ffffff;
     background: #000000;
-    font-size: 30px; }
+    font-size: 25px; }
     @media screen and (max-width: 520px) {
       .tile.tile-super .tile-inner {
-        font-size: 10px; } }
+        font-size: 8px; } }
 
 @-webkit-keyframes appear {
   0% {
