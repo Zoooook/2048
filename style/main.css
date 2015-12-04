@@ -214,7 +214,7 @@ hr {
   right: 0;
   bottom: 0;
   left: 0;
-  background: rgba(238, 228, 218, 0.73);
+  background: rgba(238, 228, 218, 0.5);
   z-index: 100;
   padding-top: 40px;
   text-align: center;
@@ -697,7 +697,7 @@ hr {
     right: 0;
     bottom: 0;
     left: 0;
-    background: rgba(238, 228, 218, 0.73);
+    background: rgba(238, 228, 218, 0.5);
     z-index: 100;
     padding-top: 40px;
     text-align: center;
